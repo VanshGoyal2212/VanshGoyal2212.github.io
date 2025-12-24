@@ -306,6 +306,7 @@ footer{
     display: grid;
     grid-template-columns: repeat(2,1fr);
     gap: 50px;
+    text-align: left;
 }
 .footer-1{
     display: flex;
